@@ -11,7 +11,9 @@ Activate conda environment
 
     conda activate image-dashboard
 
-Start jupyter notebook with scijava kernel (enables imagej in the notebook)
----------------------------------------------------------------------------
+Start jupyter notebook 
+-----------------------
 
-jupyter notebook
+    jupyter notebook
+
+In the notebook menu: Kernel -> Change kernel -> SciJava
